@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.rsuser
+.DS_Store
+__MACOSX/
+Cobol/cliente
+*.log
